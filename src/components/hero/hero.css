@@ -1,0 +1,94 @@
+.hero {
+  min-height: 70vh;
+  background: linear-gradient(to right, #6365f10e, #3b83f615);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.hero-content {
+  max-width: 700px;
+  text-align: center;
+}
+
+.hero-badge {
+  background: #1f1f1f;
+  color:white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.hero h1 {
+  font-size: 70px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.hero h1 span {
+  color :#6366f1;
+}
+
+.hero h2 {
+  color: black;
+  font-size: 35px;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
+
+.hero p {
+  color: #9a9a9a;
+  line-height: 1.7;
+  font-size: 23px;
+  margin-bottom: 30px;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.primary-btn {
+  background: #6366f1;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  cursor: pointer;
+  border-radius: 6px;
+      display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.outline-btn {
+  background: transparent;
+  border: 1px solid #6366f1;
+  color: black;
+  padding: 12px 24px;
+  cursor: pointer;
+  border-radius: 6px;
+  
+}
+
+.socials {
+  margin-top: 30px;
+}
+
+.socials a {
+  color: black;
+  font-size: 35px;
+  margin: 0 10px;
+  padding: 7px;
+  border-radius: 50%;
+  transition: 0.3s;
+  align-items: center;
+  display: inline-flex;
+}
+
+.socials a:hover {
+  background:rgba(210, 180, 180, 0.244);
+}
