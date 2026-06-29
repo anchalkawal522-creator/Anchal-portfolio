@@ -1,41 +1,40 @@
 import "./project.css";
-
 const projects = [
   {
     title: "Fox University",
     image: "/ss.p.png",
-    desc: "Fox is an academic website template for schools, colleges, universities, online courses, and other educational projects. It is a full-blown web design solution with a modern and trendy look that impresses all your potential students.",
-    github: "https://github.com/anchalkawal522-creator?tab=repositories",
+    desc: "A modern and responsive educational website built for universities, colleges, and online learning platforms. It features course listings, faculty information, admission details, and a clean user-friendly interface.",
+    github: "https://foxuni-sigma.vercel.app/",
   },
   {
-    title: "Capital Shop",
-    image: "/3pro.png",
-    desc: "Fox is an academic website template for schools, colleges, universities, online courses, and other educational projects. It is a full-blown web design solution with a modern and trendy look that impresses all your potential students.",
-    github: "https://github.com/anchalkawal522-creator?tab=repositories",
+    title: "Imperial China",
+    image: "/imperial design.png",
+    desc: "A responsive restaurant website showcasing authentic Chinese cuisine with an elegant design, interactive menu, online reservation section, and a seamless user experience across all devices.",
+    github: "https://website-imperial.vercel.app/",
   },
   {
-    title: "Dento",
-    image: "/4pro.png",
-    desc: "Fox is an academic website template for schools, colleges, universities, online courses, and other educational projects. It is a full-blown web design solution with a modern and trendy look that impresses all your potential students.",
-    github: "https://github.com/anchalkawal522-creator?tab=repositories",
+    title: "TruArt",
+    image: "/public/truart.png",
+    desc: "A creative portfolio and art gallery website designed to showcase artworks with a modern UI, smooth navigation, responsive layouts, and an engaging visual experience.",
+    github: "https://truart-ui.vercel.app/",
   },
   {
-    title: "Buildream",
-    image: "/5pro.png",
-    desc: "Fox is an academic website template for schools, colleges, universities, online courses, and other educational projects. It is a full-blown web design solution with a modern and trendy look that impresses all your potential students.",
-    github: "https://github.com/anchalkawal522-creator?tab=repositories",
+    title: "Sri Hari Classes",
+    image: "/sri hari.png",
+    desc: "A responsive coaching institute website featuring course details, faculty information, admission process, contact section, and an easy-to-navigate interface for students and parents.",
+    github: "https://shri-hari-classes-nerchowk-exfs-dk4ed2wxv.vercel.app/",
   },
   {
     title: "Astro Dashboard",
     image: "/astrodash.png",
-    desc: "Built a responsive Admin Dashboard using React.js and Chart.js to monitor user growth, booking statistics, revenue reports, and platform activities. Designed with a focus on usability, performance, and data visualization.",
-    github: "https://github.com/anchalkawal522-creator?tab=repositories",
+    desc: "A responsive admin dashboard built with React.js and Chart.js to manage users, monitor bookings, visualize revenue reports, and track platform performance through interactive charts and analytics.",
+    github: "https://astrodash-fcrd4uko0-anchalkawal522-creators-projects.vercel.app/",
   },
   {
-    title: "Finess Website UI",
+    title: "Fitness Website UI",
     image: "/finess.png",
-    desc: "Build strength, improve endurance, and achieve your fitness goals with expert training, personalized workout plans, and a healthy lifestyle.",
-    github: "https://github.com/anchalkawal522-creator?tab=repositories",
+    desc: "A modern fitness website UI designed for gyms and personal trainers, featuring workout programs, trainer profiles, membership plans, BMI calculator, and a fully responsive layout.",
+    github: "https://fitness-j8ute8e2r-anchalkawal522-creators-projects.vercel.app",
   },
 ];
 

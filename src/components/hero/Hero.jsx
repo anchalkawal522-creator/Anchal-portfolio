@@ -18,17 +18,10 @@ function Hero() {
           clean code and beautiful user interfaces using React.js and modern web
           technologies.
         </p>
-
-        <div className="hero-buttons">
-          <a
-            href="https://github.com/anchalkawal522-creator?tab=repositories"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="primary-btn"
-          >
-            View Projects <FaArrowRight />
-          </a>
-
+<div className="hero-buttons">
+  <a href="#projects" className="primary-btn">
+    View Projects <FaArrowRight />
+  </a>
           <a
             href="/public/anchal-frontend-inter.pdf"
             download

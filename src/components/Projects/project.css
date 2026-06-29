@@ -13,7 +13,10 @@
   text-align: center;
   padding-bottom: 50px;
 }
-
+.container{
+  max-width: 1400px !important;
+  margin: auto;
+}
 .heading-project h1 {
   font-size: 65px;
   color: #585bf0;
