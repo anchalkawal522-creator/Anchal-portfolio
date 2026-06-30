@@ -22,7 +22,7 @@ const projects = [
     title: "Sri Hari Classes",
     image: "/sri hari.png",
     desc: "A responsive coaching institute website featuring course details, faculty information, admission process, contact section, and an easy-to-navigate interface for students and parents.",
-    github: "https://shri-hari-classes-nerchowk-exfs-dk4ed2wxv.vercel.app/",
+    github: "https://shri-hari-classes-nerchowk.vercel.app/",
   },
   {
     title: "Astro Dashboard",
