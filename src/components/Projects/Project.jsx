@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: "TruArt",
-    image: "/public/truart.png",
+    image: "/truart.png",
     desc: "A creative portfolio and art gallery website designed to showcase artworks with a modern UI, smooth navigation, responsive layouts, and an engaging visual experience.",
     github: "https://truart-ui.vercel.app/",
   },
