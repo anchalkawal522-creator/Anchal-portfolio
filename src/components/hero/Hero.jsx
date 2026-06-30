@@ -23,7 +23,7 @@ function Hero() {
     View Projects <FaArrowRight />
   </a>
           <a
-            href="/public/anchal-frontend-inter.pdf"
+            href="/anchal-frontend-inter.pdf"
             download
             className="outline-btn"
           >
